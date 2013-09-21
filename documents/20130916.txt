@@ -1,0 +1,10 @@
+DB
+- tất cả các bảng: cho ID làm PK
+- biểu thi liên kết Entity Relation (1 đối n ...)
+- bồ sung ngày tạo , ngày cập nhật
+
+PHP
+- tim hiều FuelPHP
+
+Soft skills
+- tự tìm hiểu một số kiến thức cần thiết khi pvan

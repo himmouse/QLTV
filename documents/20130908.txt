@@ -1,0 +1,26 @@
++ CSDL
+
+1. tat ca cac bang
+- ngày tạo
+- ngày cập nhật
+- them cot id làm PK
+
+2. bảng SACH_MUON
+- xoá: ten_sach, tac_gia, tom_tat_noi_dung
+- thêm: thanh_vien_id
+
+3. bảng SACH
+- thêm: so_luong
+
+4. bảng SO_LUONG_SACH_HIEN_TAI
+- xoá
+
+5. bảng SO_LUONG_SACH_DA_MUON
+- sửa ten thành SACH_DANG_MUON 
+
+6. vẽ thêm khoá ngoại
+
++ cài wampp or xampp
+- thiet lap apache, php, mysql
+
++ tim hieu ve fuelPHP

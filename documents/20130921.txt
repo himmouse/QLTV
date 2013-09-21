@@ -1,0 +1,10 @@
+FuelPHP
+
+1. tim hieu mo hinh MVC
+- tap tao 1 vai route, controller, view, va hien thi ra trang html
+
+2. thiet lap database de ket noi voi mysql
+xem app/config/db
+
+3. tao model neu co the
+- ung dung su dung trong controller va view

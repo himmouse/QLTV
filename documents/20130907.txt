@@ -1,0 +1,21 @@
+PHP 5.3 FuelPHP
+MySQL 5.5
+Apache 2.2
+Netbeans
+HTML, CSS, JS
+
+Quản lí thư viện
+phía ADMIN
+- quản lí sách (thêm, cập nhật, xoá)
+- sách (tên, tóm tắt nội dung, tác giả, số lượng)
+- phân loại sách theo tag
+- List sách
+- Search sách theo tên, nội dung, tác giả và tag
+- quản lí tag (thêm, tìm kiếm, chỉnh sửa, xoá)
+- quản lí thành viên (xem, tìm kiếm, xoá)
+
+phía USER
+- account (tạo, sửa, xoá)
+- list sách
+- search sách theo tên, nội dung, tác giả và tag
+- mượn sách (đăng kí mượn, trả sách)
