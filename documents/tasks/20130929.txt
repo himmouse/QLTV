@@ -1,0 +1,19 @@
+1. thiet lap bien moi truong cho PHP
+
+2. tim hieu ve migration
+- su dung migrate de tao database, tạo model (lệnh php oil)
+* khi tao db, table thi su dung toan bộ bằng tiếng anh
+
+3. tao trang hien thi toan bo sach
+
+4. tao trang dang ki sach
+
+5. tao trang xem chi tiet of sach
+
+6. tao trang chinh sua sach
+
+7. xoa sach
+
+Other:
+8. ket not voi github bằng SourceTree
+ 
