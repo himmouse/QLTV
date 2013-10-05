@@ -1,0 +1,9 @@
+1. tao controller books (read, create, update, delete)
+su dung cach viet of fuelphp
+
+2. tao controller khac lien quan den sach
+tim hieu cach tao model voi khoa ngoai
+
+Other:
+3. ket not voi github bằng SourceTree
+ 
