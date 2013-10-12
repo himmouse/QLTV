@@ -1,0 +1,5 @@
+1. thiet ke DB viet lai bang tieng anh
+
+2. thiet ke lai table phan loai sach (category) sao cho co nhieu tầng
+
+3. tim hieu cach viet has_many, belongs_to, ...  trong model va migration
