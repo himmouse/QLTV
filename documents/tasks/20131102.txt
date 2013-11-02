@@ -1,0 +1,5 @@
+1. su dung validation de xuat thong báo lỗi, và giữ nguyên giá trí vừa nhập
+
+2. viet chuc nang list, detail, edit, delete cho nhung model khac
+
+3. su dung migration de tạo khoá ngoại trong DB
